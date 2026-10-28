@@ -1,0 +1,6 @@
+{
+  "name": "Proof-of-Work Developer Lab",
+  "description": "Explore the work. Understand the engineering. Verify the proof. A premium, high-impact developer portfolio built for hackathons, engineering competitions, and recruiters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
